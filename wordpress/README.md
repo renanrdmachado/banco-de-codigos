@@ -4,3 +4,6 @@
 
 <h1>Busca interna e filtros</h1>
 <a href="https://br.wordpress.org/plugins/search-everything/">Search Everything</a></br>
+
+<h1> SEO </h1>
+<a href="#">YOAST SEO</a>
