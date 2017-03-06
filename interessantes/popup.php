@@ -10,7 +10,7 @@ $('a').click(function(){
        $('.popup-ctt').html('Carregando...');
       
       jQuery.ajax({
-          url: 'http://movelcomunicacao.com.br/clientes/theway/bdrops/site/wp-content/themes/bdrops/template/popup.php?href='+gethref,
+          url: '/wp-content/themes/bdrops/template/popup.php?href='+gethref,
           success: function(data) {
               jQuery('.popup-ctt').html(data);
           }
