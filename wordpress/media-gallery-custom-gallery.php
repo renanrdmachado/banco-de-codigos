@@ -1,3 +1,5 @@
+<?php
+// Insert into functions.php
 function add_custom_settings_media_gallery(){
 	  // define your backbone template;
 	  // the "tmpl-" prefix is required,
