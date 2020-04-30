@@ -17,6 +17,7 @@
     }
 
     function mvl_parallax(el,speed){
+      if(el.length === 0) return false;
       // console.log(el.css('transform'));
       // if(el.css('matrix')==undefined) {
       //     el.css({
